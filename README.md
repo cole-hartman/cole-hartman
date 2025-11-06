@@ -26,29 +26,4 @@ class Cole:
 https://github.com/user-attachments/assets/ff53bb67-554a-456d-9a98-07617f24ac6b
 
 </details>
-
-## Skills
-<details>
-<summary><b>More Info</b></summary>
-<br>
-
-### Languages
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c" alt="Skill Icons" />
-</a>
-
-### Frameworks
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs" alt="Skill Icons" />
-</a>
-
-### Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,figma" alt="Skill Icons" />
-</a>
-
-</details>
 </div>
